@@ -1,0 +1,21 @@
+---
+title: 適用於G Suite的Workfront
+description: 將workfront one課程對應至experience league課程
+exl-id: a81121c5-86bc-4fa7-8185-9d83ac9ce090
+source-git-commit: b935a19923a26cb2152c7ebc7df7c0ed39d96588
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 0%
+
+---
+
+# 適用於G Suite的Workfront
+
+此 *適用於G Suite的Workfront* Workfont One學習路徑現在已對應至新移轉及最佳化的Experience LeagueWorkfront教學課程。 新教學課程會擷取所有相同資訊。 導覽至新Experience League [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)，並尋找 *整合* 列在「Tutorials」頁面左側導覽列中。
+
+## 其他資源
+
+* [Workfront課程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront.html)
+* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Workfront社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
