@@ -1,17 +1,17 @@
 ---
 title: 增強型分析
-description: 將workfront one課程對應至experience league課程
+description: 將 Workfront One 課程對應到 Experience League 課程
 exl-id: a3aaa1f8-047e-4d5b-9740-3526a378689d
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 增強型分析
 
-我們目前正在重建此課程內容以供Experience League。  如有不便，敬請見諒。  我們預計此課程內容不久將會上線。
+我們目前正在為 Experience League 重建此課程內容。造成您的不便，我們深感抱歉。預計此課程內容很快就會上線。
 
 <!---Learn how to manage your current work and plan future work more accurately by identifying data trends.
 
@@ -94,7 +94,7 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [Workfront課程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront 課程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
+* [Workfront 文件](https://experienceleague.adobe.com/docs/workfront.html)
+* [Workfront 教學課程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Workfront 社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

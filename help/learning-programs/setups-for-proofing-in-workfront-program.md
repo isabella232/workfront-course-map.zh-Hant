@@ -1,31 +1,31 @@
 ---
-title: Workfront中校訂的設定，以提供新的Workfront體驗
-description: 將workfront one課程對應至experience league課程
+title: 新 Workfront 體驗的 Workfront 校訂設定
+description: 將 Workfront One 課程對應到 Experience League 課程
 exl-id: 7d259c4f-b0ec-4bfd-9ae2-91acfa47a5ba
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Workfront中校訂的設定，以提供新的Workfront體驗
+# 新 Workfront 體驗的 Workfront 校訂設定
 
-開始使用Workfront的數位檢閱和核准（也稱為校訂），探索優點並設定校訂以符合您的專案工作流程。
+開始使用 Workfront 的數位檢閱和核准 (也稱為校訂)，探索其優勢並設定校訂以適應您的專案工作流程。
 
 >[!IMPORTANT]
 >
->**請注意，這個先前的Workfront One學習計畫現在已對應至新移轉及最佳化的Experience LeagueWorkfront課程。  新結構會涵蓋所有相同的學習目標。**.
+>**請注意，先前的 Workfront One 學習計畫現已對應到剛移轉並最佳化的 Experience League Workfront 課程。所有相同的學習目標皆已納入新結構中**。
 
 <table>
   <tr>
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof">
-      <img alt="Workfront校訂 — 管理和設定" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof-administration-and-setup.png"/>
+      <img alt="Workfront 校訂 - 管理和設定" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof-administration-and-setup.png"/>
       </a>
       <div>
-         <strong>Workfront校訂 — 管理和設定</strong></a>         
-         <br/><em>55分鐘</em>
+         <strong>Workfront Proof - 管理和設定</strong></a>         
+         <br/><em>55 分鐘</em>
       </div>
       <p>
         <br/>
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [Workfront課程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront 課程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
+* [Workfront 文件](https://experienceleague.adobe.com/docs/workfront.html)
+* [Workfront 教學課程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Workfront 社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

@@ -1,25 +1,25 @@
 ---
-title: 建構中
-description: 將workfront one課程對應至experience league課程
+title: 架構中
+description: 將 Workfront One 課程對應到 Experience League 課程
 hidefromtoc: true
 index: false
 exl-id: adbf1cb6-b7a3-466b-b8a1-1b5ff1d1f20f
 source-git-commit: 2ae7d08440554978a1c2a953f5fa07d3e3e8ed7a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 建構中
+# 架構中
 
-我們目前正在更新和最佳化此內容以利進行Experience League。 我們應儘快發佈此內容，如有不便，敬請見諒。
+我們目前正在為 Experience League 更新和最佳化此內容。此內容將在近期發佈，對於造成任何不便，我們深表歉意。
 
-若您有其他問題，建議您在以下網址建立貼文： [Workfront社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront) 在Experience League上。
+如果您還有其他問題，請在 Experience League 的 [Workfront 社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)中發表貼文。
 
-您可能也會想要探索其他已移轉至Experience League的Workfront資源，
+您也許會想探索一些已移轉到 Experience League 的其他 Workfront 資源，
 
-* [Workfront課程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront 課程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
+* [Workfront 文件](https://experienceleague.adobe.com/docs/workfront.html)
+* [Workfront 教學課程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Workfront 社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

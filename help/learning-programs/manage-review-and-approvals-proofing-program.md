@@ -1,35 +1,35 @@
 ---
-title: 管理新Workfront體驗中校訂的檢閱和核准
-description: 將workfront one課程對應至experience league課程
+title: 在新的 Workfront 體驗中透過校訂管理檢閱和核准
+description: 將 Workfront One 課程對應到 Experience League 課程
 exl-id: 5f653032-ed64-459f-898e-894c31c5ce97
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 管理新Workfront體驗中校訂的檢閱和核准
+# 在新的 Workfront 體驗中透過校訂管理檢閱和核准
 
-稽核和核准是創作流程中的必要步驟。 瞭解如何自動執行此步驟，以透過Workfront的校訂功能更快且更有效率地完成最佳工作。
+檢閱和核准是創作過程中必不可少的步驟。了解如何利用 Workfront 的校訂功能自動執行此步驟，以更快、更有效率地完成出色的工作。
 
 >[!IMPORTANT]
 >
->**請注意，這個先前的Workfront One學習計畫現在已對應至新移轉及最佳化的Experience LeagueWorkfront課程。  新結構會涵蓋所有相同的學習目標。**.
+>**請注意，先前的 Workfront One 學習計畫現已對應到剛移轉並最佳化的 Experience League Workfront 課程。所有相同的學習目標皆已納入新結構中**。
 
 <table>
   <tr>
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof">
-      <img alt="Workfront校訂 — 檢閱和核准工作" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof---review-and-approve-work.png"/>
+      <img alt="Workfront 校訂 - 檢閱和核准工作" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof---review-and-approve-work.png"/>
       </a>
       <div>
-         <strong>Workfront校訂 — 檢閱和核准工作</strong></a>         
-         <br/><em>39分鐘</em>
+         <strong>Workfront Proof - 檢閱和核准工作</strong></a>         
+         <br/><em>39 分鐘</em>
       </div>
       <p>
         <br/>
-         瞭解如何以檢閱者或核准者的身分使用Workfront校訂。
+         瞭解如何作為檢閱者和核准者使用 Workfront Proof。
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">前往課程</span>
@@ -37,11 +37,11 @@ ht-degree: 0%
    </td>   
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof">
-      <img alt="Workfront校訂 — 上傳校訂" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof-upload-proofs.png"/>
+      <img alt="Workfront 校訂 - 上傳校訂" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof-upload-proofs.png"/>
       </a>
       <div>
-         <strong>Workfront校訂 — 上傳校訂</strong></a>         
-         <br/><em>40分鐘</em>
+         <strong>Workfront Proof - 上傳校訂</strong></a>         
+         <br/><em>40 分鐘</em>
       </div>
       <p>
         <br/>
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [Workfront課程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront 課程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
+* [Workfront 文件](https://experienceleague.adobe.com/docs/workfront.html)
+* [Workfront 教學課程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Workfront 社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

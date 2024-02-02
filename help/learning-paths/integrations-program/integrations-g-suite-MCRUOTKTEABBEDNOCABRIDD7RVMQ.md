@@ -1,21 +1,21 @@
 ---
-title: 適用於G Suite的Workfront
-description: 將workfront one課程對應至experience league課程
+title: 適用於 G Suite 的 Workfront
+description: 將 Workfront One 課程對應到 Experience League 課程
 exl-id: a81121c5-86bc-4fa7-8185-9d83ac9ce090
 source-git-commit: b935a19923a26cb2152c7ebc7df7c0ed39d96588
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 適用於G Suite的Workfront
+# 適用於 G Suite 的 Workfront
 
-此 *適用於G Suite的Workfront* Workfont One學習路徑現在已對應至新移轉及最佳化的Experience LeagueWorkfront教學課程。 新教學課程會擷取所有相同資訊。 導覽至新Experience League [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)，並尋找 *整合* 列在「Tutorials」頁面左側導覽列中。
+*適用於 G Suite 的 Workfront* Workfront One 學習路徑現已對應到新移轉和最佳化的 Experience League Workfront 教學課程。新教學課程中包含了所有相同的資訊。瀏覽至新的 Experience League [Workfront 教學課程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)，然後尋找列於教學課程頁面左側導覽列中的「*整合*」。
 
 ## 其他資源
 
-* [Workfront課程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront 課程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
+* [Workfront 文件](https://experienceleague.adobe.com/docs/workfront.html)
+* [Workfront 教學課程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Workfront 社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

@@ -1,37 +1,37 @@
 ---
-title: 資料結構和資料存放區
-description: 將workfront one課程對應至experience league課程
+title: 資料結構和資料儲存區
+description: 將 Workfront One 課程對應到 Experience League 課程
 exl-id: 20bd6f94-0088-4e21-af22-def1cda45367
 source-git-commit: a35951f56d4d0b0c978b11671ca119541234270a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 資料結構和資料存放區
+# 資料結構和資料儲存區 
 
-下列Workfont One學習路徑，
+以下 Workfront One 學習路徑，
 
-* 歡迎使用Workfront Fusion
-* 瞭解基本知識
-* 通用聯結器和路由
-* 反複運算與彙總
-* 執行歷史記錄和排程
-* 基本模組以外
-* 資料結構和資料存放區
-* 最終功能位元和邊框
-* 疑難排解和錯誤處理
-* Workfront Fusion管理
-* 設計最佳化和測試
+* 歡迎使用 Workfront Fusion 
+* 瞭解基礎知識 
+* 通用連接器和路由 
+* 疊代與彙總 
+* 執行歷史記錄與排程 
+* 超越基本模組 
+* 資料結構和資料儲存區 
+* 最後的各種小型功能
+* 疑難排解與錯誤處理 
+* Workfront Fusion 管理 
+* 設計最佳化和測試 
 
-已最佳化並重新建置為Experience League教學課程，請按一下 [Workfront Fusion概述](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview.html?lang=en){target="_blank"} 教學課程以開始使用。
+已最佳化並重建為 Experience League 教學課程，請點擊「[Workfront Fusion 概觀](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview.html?lang=zh-Hant){target="_blank"}」教學課程開始學習。
 
-新的Experience League教學課程涵蓋與舊版學習路徑相同的學習目標，並已儘可能最佳化，以提供完整的學習體驗。  探索Experience League上的Workfront課程、檔案、教學課程和社群的完整資料庫。
+新的 Experience League 教學課程涵蓋了與先前的學習路徑相同的學習目標，並已盡可能進行了最佳化，以提供全面的學習體驗。探索 Experience League 上的完整 Workfront 課程、文件、教學課程和社群資料庫。
 
 ## 其他資源
 
-* [Workfront課程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront 課程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
+* [Workfront 文件](https://experienceleague.adobe.com/docs/workfront.html)
+* [Workfront 教學課程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Workfront 社群](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

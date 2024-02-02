@@ -6,9 +6,9 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/workfront-course-map.zh-Hant
 index: false
 source-git-commit: adec3434945db1fa17b8e0cce21ce65ae9f63620
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
